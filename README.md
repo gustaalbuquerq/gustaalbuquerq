@@ -1,4 +1,4 @@
-# 👨‍💻 About Me:
+# 👨🏾‍💻 About Me:
 import Desenvolvedor from "Gustavo Albuquerque";<br><br>class AboutMe extends Desenvolvedor {<br>  nome = "Gustavo Lopes Albuququerque";<br>  ocupacao = "Estudante";<br>  area = "Técnico em Desenvolvimento de Sistemas";<br>  contato = "gustavo.albuquerquee1@gmail.com";<br>  }<br>
 
 
